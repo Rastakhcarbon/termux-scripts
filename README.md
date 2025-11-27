@@ -1,4 +1,5 @@
 
+
 # Termux Automation Scripts
 
 This repository contains a collection of bash scripts that automate various tasks in the Termux terminal environment. These scripts are designed to simplify repetitive tasks, making Termux usage more efficient.
